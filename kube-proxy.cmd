@@ -1,0 +1,1 @@
+wscript kube-proxy.vbs
