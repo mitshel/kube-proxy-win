@@ -1,1 +1,1 @@
-wscript kube-proxy.vbs
+wscript kube-proxy.vbs 192.168.7.107
